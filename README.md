@@ -4,6 +4,7 @@
 <!-- Website Link -->
 <p style="font-size: 1.2rem;">💻 Check out my <a href="https://madisonlaprise.github.io" target="_blank" style="color: #0077B5; text-decoration: none;">portfolio</a> to see my latest projects and learn more about my work!</p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madisonlaprisetheme=nord_bright)
  <br />
 <!-- Languages I Code In Section -->
 <p style="font-size: 1.3rem; font-weight: bold;">🔧 I primarily code in:</p>
