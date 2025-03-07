@@ -1,9 +1,12 @@
 <h2 align="left" style="font-size: 2.5rem; color: #4CAF50;">👋 Salutations!</h2>
 <p style="font-size: 1.2rem; color: #333;">Hi there! I'm a passionate software developer who loves working with backend technologies, AI, and everything in between. Welcome to my little corner of the web!</p>
-
+ <br /> 
+<br /> 
 <!-- Website Link -->
 <p style="font-size: 1.2rem;">💻 Check out my <a href="https://madisonlaprise.github.io" target="_blank" style="color: #0077B5; text-decoration: none;">portfolio</a> to see my latest projects and learn more about my work!</p>
+ <br /> 
 
+ 
 <!-- Languages I Code In Section -->
 <p style="font-size: 1.3rem; font-weight: bold;">🔧 I primarily code in:</p>
 <div align="left">
@@ -13,6 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="css3 logo" style="margin-right: 20px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
 
+ <br /> 
+  <br /> 
 <!-- Contact Section -->
 <p style="font-size: 1.3rem; font-weight: bold;">📬 Get in touch with me:</p>
 <div align="left">
