@@ -1,11 +1,10 @@
 <h2 align="left" style="font-size: 2.5rem; color: #4CAF50;">👋 Welcome to my GitHub!</h2>
 <p style="font-size: 1.2rem; color: #333;">Hi there! I'm currently a senior at Yale majoring in Cognitive Science. My work here includes classes, internships, and personal projects. </p>
-<br /> 
 
 <!-- Website Link -->
 <p style="font-size: 1.2rem;">💻 Check out my <a href="https://madisonlaprise.github.io" target="_blank" style="color: #0077B5; text-decoration: none;">portfolio</a> to see my latest projects and learn more about my work!</p>
 
- 
+ <br />
 <!-- Languages I Code In Section -->
 <p style="font-size: 1.3rem; font-weight: bold;">🔧 I primarily code in:</p>
 <div align="left">
